@@ -7,6 +7,11 @@ My name is Marcin and nowadays I am increasing my knowledge 📚 in developing a
 ![SwiftUI](https://img.shields.io/badge/swiftui-FF0000?style=for-the-badge&logo=swift&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![Figma](https://img.shields.io/badge/figma-8472DD.svg?style=for-the-badge&logo=figma&logoColor=white) ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 	![Power Apps](https://img.shields.io/badge/power_apps-1E3B70?style=for-the-badge&logo=powerapps&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ## Projects 🏗
+## AquaVibe 😎💧
+[![Image](https://github.com/user-attachments/assets/7d684b88-89f3-444d-8ecb-7eef3aeb8a9b)]([https://pillmemo.framer.ai](https://maartinj.notion.site/AquaVibe-10387c79476f805ea83bf6a6da996e86))
+
+With AquaVibe, start your journey to a more mindful, hydrated, and emotionally balanced life 🧘‍♂🧘‍♀ Whether you're looking to improve your emotional intelligence, stay hydrated, or simply understand yourself better, AquaVibe provides the tools you need 🙂
+
 ## PillMemo 💊
 [![Image](https://github.com/maartinj/maartinj/assets/53284922/2338ae66-9df4-4ae5-ba91-7930e056bcab)](https://pillmemo.framer.ai)
 
