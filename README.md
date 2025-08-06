@@ -7,14 +7,21 @@ My name is Marcin and nowadays I am increasing my knowledge 📚 in developing a
 ![SwiftUI](https://img.shields.io/badge/swiftui-FF0000?style=for-the-badge&logo=swift&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![Figma](https://img.shields.io/badge/figma-8472DD.svg?style=for-the-badge&logo=figma&logoColor=white) ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 	![Power Apps](https://img.shields.io/badge/power_apps-1E3B70?style=for-the-badge&logo=powerapps&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ## Projects 🏗
-## MedScan 💊✨
+## PicFuser 📷 📄
+[App Store link](https://apps.apple.com/app/apple-store/id6749449366)
+
+<img width="1880" height="1040" alt="Col" src="https://github.com/user-attachments/assets/a1fbdd34-d4a4-4693-b212-fd59aa6444e2" />
+
+Simple app for creating multi-page PDFs from photos or scans. Lets you combine images, rearrange pages, and adjust file quality for easy sharing.
+
+## MedScan 💊 ✨
 [App Store link](https://apps.apple.com/app/apple-store/id6747271665)
 
 <img width="1920" height="1080" alt="medScanPromo" src="https://github.com/user-attachments/assets/fc0b50fc-f82d-429d-b638-28f79ec3d0c4" />
 
 MedScan is an iOS app for identifying medications. Take a photo of a medication's packaging, and the image recognition system suggests the medication. After scanning, it displays detailed information about the medication - name, dosage and potential side effects. It helps you quickly check basic information about the pills you find, increasing safety and confidence when taking the medication.
 
-## AquaVibe 😎💧
+## AquaVibe 😎 💧
 [App Store link](https://apps.apple.com/app/apple-store/id6673904865)
 
 [![Image](https://github.com/user-attachments/assets/7d684b88-89f3-444d-8ecb-7eef3aeb8a9b)]([https://pillmemo.framer.ai](https://maartinj.notion.site/AquaVibe-10387c79476f805ea83bf6a6da996e86))
