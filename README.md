@@ -10,7 +10,7 @@ My name is Marcin and nowadays I am increasing my knowledge 📚 in developing a
 ## ShotDocu 📷 📄
 [App Store link](https://apps.apple.com/app/apple-store/id6749449366)
 
-<img width="1880" height="1040" alt="Col" src="https://github.com/user-attachments/assets/a1fbdd34-d4a4-4693-b212-fd59aa6444e2" />
+<img width="1880" height="1040" alt="Col" src="https://github.com/user-attachments/assets/bee4c1cb-5ae1-4142-b575-25f51877c717" />
 
 Simple app for creating multi-page PDFs from photos or scans. Lets you combine images, rearrange pages, and adjust file quality for easy sharing.
 
