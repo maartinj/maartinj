@@ -7,7 +7,7 @@ My name is Marcin and nowadays I am increasing my knowledge 📚 in developing a
 ![SwiftUI](https://img.shields.io/badge/swiftui-FF0000?style=for-the-badge&logo=swift&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![Figma](https://img.shields.io/badge/figma-8472DD.svg?style=for-the-badge&logo=figma&logoColor=white) ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 	![Power Apps](https://img.shields.io/badge/power_apps-1E3B70?style=for-the-badge&logo=powerapps&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ## Projects 🏗
-## PicFuser 📷 📄
+## ShotDocu 📷 📄
 [App Store link](https://apps.apple.com/app/apple-store/id6749449366)
 
 <img width="1880" height="1040" alt="Col" src="https://github.com/user-attachments/assets/a1fbdd34-d4a4-4693-b212-fd59aa6444e2" />
