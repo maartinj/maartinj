@@ -1,18 +1,18 @@
 # Hello 🙋‍♂️
 
-My name is Marcin and nowadays I am increasing my knowledge 📚 in developing applications for mobile devices 📱, especially in Swift language from Apple 🍏. Every challenge is a chance for growth, and I willingly take them to become a better person 🙌.
+My name is Marcin and I build production iOS apps with SwiftUI and publish them on the App Store 📱. My projects combine product thinking, clean UI, local data storage, notifications, subscriptions and practical user-focused features 🤝.
 
 ## Skills 👨‍🎓
 
 ![SwiftUI](https://img.shields.io/badge/swiftui-FF0000?style=for-the-badge&logo=swift&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![Figma](https://img.shields.io/badge/figma-8472DD.svg?style=for-the-badge&logo=figma&logoColor=white) ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 	![Power Apps](https://img.shields.io/badge/power_apps-1E3B70?style=for-the-badge&logo=powerapps&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ## Projects 🏗
-## ShotDocu 📷 📄
-[App Store link](https://apps.apple.com/app/apple-store/id6749449366)
+## PillMemo 💊
+[App Store link](https://apps.apple.com/app/apple-store/id6499107849)
 
-<img width="1880" height="1040" alt="Col" src="https://github.com/user-attachments/assets/bee4c1cb-5ae1-4142-b575-25f51877c717" />
+[![Image](https://github.com/maartinj/maartinj/assets/53284922/2338ae66-9df4-4ae5-ba91-7930e056bcab)](https://pillmemo.framer.ai)
 
-Simple app for creating multi-page PDFs from photos or scans. Lets you combine images, rearrange pages, and adjust file quality for easy sharing.
+Never miss a dose again with PillMemo, the comprehensive app designed to help you stay on top of your medication routine effortlessly. Whether you're managing your own health or caring for a loved one, PillMemo is here to simplify your medicine-taking experience.
 
 ## MedScan 💊 ✨
 [App Store link](https://apps.apple.com/app/apple-store/id6747271665)
@@ -28,21 +28,21 @@ MedScan is an iOS app for identifying medications. Take a photo of a medication'
 
 With AquaVibe, start your journey to a more mindful, hydrated, and emotionally balanced life 🧘‍♂🧘‍♀ Whether you're looking to improve your emotional intelligence, stay hydrated, or simply understand yourself better, AquaVibe provides the tools you need 🙂
 
-## PillMemo 💊
-[App Store link](https://apps.apple.com/app/apple-store/id6499107849)
+## ShotDocu 📷 📄
+[App Store link](https://apps.apple.com/app/apple-store/id6749449366)
 
-[![Image](https://github.com/maartinj/maartinj/assets/53284922/2338ae66-9df4-4ae5-ba91-7930e056bcab)](https://pillmemo.framer.ai)
+<img width="1880" height="1040" alt="Col" src="https://github.com/user-attachments/assets/bee4c1cb-5ae1-4142-b575-25f51877c717" />
 
-Never miss a dose again with PillMemo, the comprehensive app designed to help you stay on top of your medication routine effortlessly. Whether you're managing your own health or caring for a loved one, PillMemo is here to simplify your medicine-taking experience.
+Simple app for creating multi-page PDFs from photos or scans. Lets you combine images, rearrange pages, and adjust file quality for easy sharing.
 
 ## Basic Car Maintenance 🛠️
 
 <img width="292" alt="basicCarMaintenance" src="https://github.com/maartinj/maartinj/assets/53284922/d25d370b-adbf-48fc-90e4-c27a538694f0">
 <img width="292" alt="basicCarMaintenance" src="https://github.com/maartinj/maartinj/assets/53284922/2a26f84f-828b-4ee3-9243-e937ff8cd91f">
 
-Open source app from [Mikaela Caron](https://github.com/mikaelacaron/Basic-Car-Maintenance). App is about managing User cars and their regular inspections.<br>
+Open source app from [Mikaela Caron](https://github.com/mikaelacaron/Basic-Car-Maintenance) with repository for practicing SwiftUI architecture and best practices. App is about managing User cars and their regular inspections.<br>
 <br>
-I helped so far with Polish localization and Onboarding View (currently only UI).
+I contributed to Polish localization and Onboarding View (only UI).
 
 ## CarListingApp 🚙
 
