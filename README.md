@@ -40,7 +40,7 @@ A comprehensive medication schedule manager for users and caregivers, with flexi
 ## ✨ MedScan. Medication identification
 <img width="1920" height="1080" alt="medScanPromo" src="https://github.com/user-attachments/assets/fc0b50fc-f82d-429d-b638-28f79ec3d0c4" />
 
-Point your camera at a medication package and MedScan identifies it, then shows detailed and side-effect information.
+Point your camera at a medication package and MedScan identifies it, then shows detailed usage and side-effect information.
 <br><br>
 **Tech highlights:** SwiftUI · GPT-4 Vision · MVVM
 <br><br>
@@ -53,7 +53,7 @@ Hydration tracker paired with emotional check-ins, encouraging a more mindful da
 <br><br>
 **Tech highlights:** SwiftUI · HealthKit · State of Mind · Swift Charts · WidgetKit
 <br><br>
-🏆 Won RevenueCat Ship-a-ton competition swag.
+🏆 Recognized in the RevenueCat Ship-a-ton competition.
 <br><br>
 [App Store link](https://apps.apple.com/app/apple-store/id6673904865)
 
@@ -79,9 +79,9 @@ A light, seasonal app focused on polished animation and a sense of the approachi
 <img width="292" alt="basicCarMaintenance" src="https://github.com/maartinj/maartinj/assets/53284922/d25d370b-adbf-48fc-90e4-c27a538694f0">
 <img width="292" alt="basicCarMaintenance" src="https://github.com/maartinj/maartinj/assets/53284922/2a26f84f-828b-4ee3-9243-e937ff8cd91f">
 
-Open source app from [Mikaela Caron](https://github.com/mikaelacaron/Basic-Car-Maintenance) with repository for practicing SwiftUI architecture and best practices. App is about managing User cars and their regular inspections.<br>
-<br>
-Contributed [Vehicle Display in settings](https://github.com/mikaelacaron/Basic-Car-Maintenance/pull/341) and the [Onboarding View (only UI)](https://github.com/mikaelacaron/Basic-Car-Maintenance/pull/284).
+[Basic Car Maintenance](https://github.com/mikaelacaron/Basic-Car-Maintenance) - an open-source app by Mikaela Caron for tracking vehicle maintenance and inspections.
+<br><br>
+Contributed [Vehicle Display in settings](https://github.com/mikaelacaron/Basic-Car-Maintenance/pull/341) and the [Onboarding View UI](https://github.com/mikaelacaron/Basic-Car-Maintenance/pull/284).
 
 ## 🧪 Currently Exploring
 - Foundation Models APIs and on-device AI (WWDC26)
