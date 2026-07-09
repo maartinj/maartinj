@@ -7,17 +7,17 @@ I design, build and ship my own apps end-to-end: from Figma mockups, through Swi
 <br>
 💼 Open to employment contract and B2B projects.
 
-## 👨‍🎓 Skills
+## ⚡️ Skills
 ![SwiftUI](https://img.shields.io/badge/swiftui-FF0000?style=for-the-badge&logo=swift&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![Figma](https://img.shields.io/badge/figma-8472DD.svg?style=for-the-badge&logo=figma&logoColor=white) ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
 
 ## 🛠 Tech Stack
 **Apple Frameworks:** Swift, SwiftUI, UIKit, async/await, Core Data, SwiftData, CloudKit Sharing, HealthKit, User Notifications, TipKit, Charts, Xcode.
 <br><br>
-**Architecture:** MVVM, @Observable services, familiar with VIPER, TCA.
+**Architecture:** MVVM, @Observable services, VIPER (PillMemo), familiar with TCA.
 <br><br>
 **Networking:** JSON, URLSession, REST API (GPT-4 Vision, external backends).
 <br><br>
-**Testing & CI/CD:** Unit Tests, UI Tests, Error Handling, Git, Xcode Cloud, SwiftLint.
+**Testing & CI/CD:** Unit Tests, UI Tests, Git, Xcode Cloud, SwiftLint.
 <br><br>
 **Monetization:** StoreKit, RevenueCat, App Store Connect, ASO.
 <br><br>
@@ -25,9 +25,7 @@ I design, build and ship my own apps end-to-end: from Figma mockups, through Swi
 <br><br>
 **AI-assisted development:** ChatGPT, Claude (code review, prototyping, localization).
 <br><br>
-**Distinction:** Won RevenueCat Ship-a-ton competition swag (AquaVibe).
-<br><br>
-**Other**: VBA, Power Automate, SQL, Microsoft Office, Figma.
+**Other**: VBA, Power Automate, SQL, Microsoft Office.
 
 ## 📱 Shipped Apps
 ## 💊 PillMemo. Medication reminders done right
@@ -49,11 +47,14 @@ Point your camera at a medication package and MedScan identifies it, then shows 
 [App Store link](https://apps.apple.com/app/apple-store/id6747271665)
 
 ## 💧 AquaVibe. Hydration + mood tracking
-[![Image](https://github.com/user-attachments/assets/7d684b88-89f3-444d-8ecb-7eef3aeb8a9b)]([https://pillmemo.framer.ai](https://maartinj.notion.site/AquaVibe-10387c79476f805ea83bf6a6da996e86))
+[![Image](https://github.com/user-attachments/assets/7d684b88-89f3-444d-8ecb-7eef3aeb8a9b)]
+(https://maartinj.notion.site/AquaVibe-10387c79476f805ea83bf6a6da996e86))
 
 Hydration tracker paired with emotional check-ins, encouraging a more mindful daily routine.
 <br><br>
 **Tech highlights:** SwiftUI · HealthKit · State of Mind · Swift Charts · WidgetKit
+<br><br>
+🏆 Won RevenueCat Ship-a-ton competition swag.
 <br><br>
 [App Store link](https://apps.apple.com/app/apple-store/id6673904865)
 
@@ -81,7 +82,7 @@ A light, seasonal app focused on polished animation and a sense of the approachi
 
 Open source app from [Mikaela Caron](https://github.com/mikaelacaron/Basic-Car-Maintenance) with repository for practicing SwiftUI architecture and best practices. App is about managing User cars and their regular inspections.<br>
 <br>
-Contributed Polish localization and the onboarding flow UI to this community.
+Contributed [Vehicle Display in settings](https://github.com/mikaelacaron/Basic-Car-Maintenance/pull/341) and the [Onboarding View (only UI)](https://github.com/mikaelacaron/Basic-Car-Maintenance/pull/284).
 
 ## 🧪 Currently Exploring
 - Foundation Models APIs and on-device AI (WWDC26)
