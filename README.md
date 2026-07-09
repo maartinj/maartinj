@@ -47,8 +47,7 @@ Point your camera at a medication package and MedScan identifies it, then shows 
 [App Store link](https://apps.apple.com/app/apple-store/id6747271665)
 
 ## 💧 AquaVibe. Hydration + mood tracking
-[![Image](https://github.com/user-attachments/assets/7d684b88-89f3-444d-8ecb-7eef3aeb8a9b)]
-(https://maartinj.notion.site/AquaVibe-10387c79476f805ea83bf6a6da996e86))
+[![Image](https://github.com/user-attachments/assets/7d684b88-89f3-444d-8ecb-7eef3aeb8a9b)](https://maartinj.notion.site/AquaVibe-10387c79476f805ea83bf6a6da996e86)
 
 Hydration tracker paired with emotional check-ins, encouraging a more mindful daily routine.
 <br><br>
