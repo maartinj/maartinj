@@ -3,23 +3,25 @@ iOS Developer from Bydgoszcz, Poland. 5 apps live on the App Store.
 
 I design, build and ship my own apps end-to-end: from Figma mockups, through SwiftUI architecture, to App Store release, localization and ASO. I care about clean, readable Swift and polished, native-feeling UI.
 
+[📄 Resume](https://mjedrzejak.craft.me/ENZBwC6aYq4zC4) · [🌐 Website](https://maartinj.github.io/AboutMe)
+
 📫 Contact: mjedrzejak@icloud.com · [LinkedIn](https://www.linkedin.com/in/marcinjedrzejak) · X [@maartin_j](https://x.com/maartin_j)
 <br>
-💼 Open to employment contract and B2B projects.
+💼 Open to iOS Developer roles and B2B contracts in Poland or remotely.
 
 ## ⚡️ Skills
 ![SwiftUI](https://img.shields.io/badge/swiftui-FF0000?style=for-the-badge&logo=swift&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![Figma](https://img.shields.io/badge/figma-8472DD.svg?style=for-the-badge&logo=figma&logoColor=white) ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
 
 ## 🛠 Tech Stack
-**Apple Frameworks:** Swift, SwiftUI, UIKit, async/await, Core Data, SwiftData, CloudKit Sharing, HealthKit, User Notifications, TipKit, Charts, Xcode.
+**Apple Frameworks:** Swift, SwiftUI, UIKit, async/await, Core Data, SwiftData, CloudKit Sharing, HealthKit, User Notifications, TipKit, Charts.
 <br><br>
-**Architecture:** MVVM, @Observable services, VIPER (PillMemo), familiar with TCA.
+**Architecture:** MVVM, VIPER (PillMemo).
 <br><br>
 **Networking:** JSON, URLSession, REST API (GPT-4 Vision, external backends).
 <br><br>
 **Testing & CI/CD:** Unit Tests, UI Tests, Git, Xcode Cloud, SwiftLint.
 <br><br>
-**Monetization:** StoreKit, RevenueCat, App Store Connect, ASO.
+**Monetization:** StoreKit, RevenueCat.
 <br><br>
 **Analytics & User Feedback:** WishKit, TelemetryDeck, Mixpanel, Aptabase.
 <br><br>
@@ -81,10 +83,11 @@ A light, seasonal app focused on polished animation and a sense of the approachi
 
 [Basic Car Maintenance](https://github.com/mikaelacaron/Basic-Car-Maintenance) - an open-source app by Mikaela Caron for tracking vehicle maintenance and inspections.
 <br><br>
-Contributed [Vehicle Display in settings](https://github.com/mikaelacaron/Basic-Car-Maintenance/pull/341) and the [Onboarding View UI](https://github.com/mikaelacaron/Basic-Car-Maintenance/pull/284).
+Contributed [Vehicle Display in settings](https://github.com/mikaelacaron/Basic-Car-Maintenance/pull/341) and the [Onboarding View UI](https://github.com/mikaelacaron/Basic-Car-Maintenance/pull/284). Two merged contributions, including responding to code review feedback.
 
 ## 🧪 Currently Exploring
 - Foundation Models APIs and on-device AI (WWDC26)
 - macOS development — internal tooling for screenshot compositing and ASO workflows
+- TCA Architecture
 <br><br>
 ### I build in public. Follow along on X [@maartin_j](https://x.com/maartin_j).
